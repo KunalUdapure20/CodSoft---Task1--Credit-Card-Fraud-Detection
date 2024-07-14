@@ -4,9 +4,8 @@ ID - ID:CS11WX279570
 Domain - MACHINE LEARNING
 Duration - 15 June 2024 to 15 July 2024.
 
+# Project Overview: Credit Card Fraud Detection
 Credit card fraud detection is a critical application of machine learning and data analytics aimed at identifying fraudulent transactions among legitimate ones in credit card transactions. Here’s a detailed overview and explanation of the process:
-
-### Overview:
 
 1. **Problem Statement**: 
    - Detect fraudulent transactions from a large volume of credit card transactions.

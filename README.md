@@ -6,6 +6,8 @@
 
 # Project Overview: Credit Card Fraud Detection
 Credit card fraud detection is a critical application of machine learning and data analytics aimed at identifying fraudulent transactions among legitimate ones in credit card transactions. Here’s a detailed overview and explanation of the process:
+![Credit_card_fraud_detection_flowchart](https://github.com/user-attachments/assets/40af1eaa-f964-428d-9c72-c187e85f7057)
+
 
 ## Data Set -
 ** https://www.kaggle.com/datasets/kartik2112/fraud-detection**
